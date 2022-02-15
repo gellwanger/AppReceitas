@@ -16,7 +16,7 @@
   * Explorar receitas por: ingrediente, nome, primeira letra, nacionalidade ou de forma randômica.
   
   Para cada opção, tem-se uma tela nova para o usuário, sendo que o projeto usou a metodologia de Single Page Application (SPA), 
-  de forma a apresentar uma navegação mais fluida ao usuário.
+  de forma a apresentar uma navegação mais fluida ao usuário. Também foi utilizado Context API e React Hooks.
   
   OBS: O projeto teve a porcentagem mínima atingida, e com isso, algumas implementações podem apresentar erros, que serão corrigidos
   ao longo do tempo por mim.
